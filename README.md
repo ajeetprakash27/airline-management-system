@@ -1,8 +1,6 @@
-# Welcome to your Lovable project
+# Welcome to Airline-Management-System-Main project
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/bb765ec3-a73c-4ea6-8639-d4af2619d941
 
 ## How can I edit this code?
 
