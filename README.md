@@ -56,7 +56,8 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open Vercel and click on New Project --> import the project -->deploy it
+Simply open Vercel and click on New Project --> import the project -->deploy it<br>
+Vercel link:-https://airline-management-system-delta.vercel.app/<br>
 
 ## Can I connect a custom domain to my Lovable project?
 
