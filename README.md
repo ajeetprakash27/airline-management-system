@@ -65,27 +65,18 @@ Yes, you can!
 
 What you can do is:
 
-Host your VS Code project somewhere (GitHub Pages, Netlify, Vercel, traditional hosting, etc.).
-
-Buy a domain (e.g., from Namecheap, GoDaddy, Google Domains…).
-
-Point the domain’s DNS records to your hosting provider.
-
-Tell the hosting provider to use that domain for your site.
+-Host your VS Code project somewhere (GitHub Pages, Netlify, Vercel, traditional hosting, etc.).
+-Buy a domain (e.g., from Namecheap, GoDaddy, Google Domains…).
+-Point the domain’s DNS records to your hosting provider.
+-Tell the hosting provider to use that domain for your site.
 
 Example with GitHub Pages (static website):
-
-Push your project to GitHub.
-
-In repo → Settings → Pages → choose branch (main), folder (/root or /docs) → Save.
-
-In Pages → Custom domain add yourdomain.com.
-
-At your domain registrar, create a CNAME record:
-
-Name: www
-
-Value: yourusername.github.io
+-Push your project to GitHub.
+-In repo → Settings → Pages → choose branch (main), folder (/root or /docs) → Save.
+-In Pages → Custom domain add yourdomain.com.
+-At your domain registrar, create a CNAME record:
+-Name: www
+-Value: yourusername.github.io
 
 (Optional) Add A records if you want root domain (yourdomain.com) to work too, following GitHub’s docs.
 
