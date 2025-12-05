@@ -60,7 +60,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/bb765ec3-a73c-4ea6-8639-d4af2619d941) and click on Share -> Publish.
+Simply open Vercel and click on New Project --> import the project -->deploy it
 
 ## Can I connect a custom domain to my Lovable project?
 
